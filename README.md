@@ -9,10 +9,6 @@
 
 - 🤝 I’m looking for help with **Testing Libraries, DevOps**
 
-- 👨‍💻 All of my projects are available at [https://onyekachinwakaihe.netlify.app/](https://onyekachinwakaihe.netlify.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/onyekachi-nwakaihe/](https://www.linkedin.com/in/onyekachi-nwakaihe/)
-
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **dnwakaihe@gmail.com**
