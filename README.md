@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Fintech Applications, E-commerce**
 
-- 🤝 I’m looking taking a course on **Frontend Development with ALX and Fullstack with Fullstack Open University - Helsinki**
+- 🤝 I’m taking a course on **Frontend Development with ALX and Fullstack with Fullstack Open University - Helsinki**
 
 - 💬 Ask me about **devloping software solutions**
 
