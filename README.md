@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donkachii&label=Profile%20views&color=0e75b6&style=flat" alt="donkachii" /> </p>
 
-- 🌱 I’m currently learning **Jest, Fullstack Open University - Helsinki**
+- 🌱 I’m currently learning **Jest and Testing Libraries*
 
 - 👯 I’m looking to collaborate on **Fintech Applications, E-commerce**
 
-- 🤝 I’m looking for help with **Testing Libraries, DevOps**
+- 🤝 I’m looking taking a course on **Frontend Development with ALX and Fullstack with Fullstack Open University - Helsinki**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **devloping software solutions**
 
 - 📫 How to reach me **dnwakaihe@gmail.com**
 
