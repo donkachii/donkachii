@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donkachii&label=Profile%20views&color=0e75b6&style=flat" alt="donkachii" /> </p>
 
-- 🌱 I’m currently learning **Jest and Testing Libraries*
+- 🌱 I’m currently learning **Jest and Testing Libraries**
 
 - 👯 I’m looking to collaborate on **Fintech Applications, E-commerce**
 
