@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Onyekachi</h1>
+<h1 align="center">Hi 👋, I'm Onyekachi Nwakaihe</h1>
 <h3 align="center">Seasoned Software Developer and Full-Stack Engineer, I bring an exceptional understanding of the software development lifecycle to the table.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donkachii&label=Profile%20views&color=0e75b6&style=flat" alt="donkachii" /> </p>
 
-- 🌱 I’m currently learning **Jest and Testing Libraries**
+- 🌱 I’m currently learning **Jest, Testing Libraries, AI and LLMs**
 
-- 👯 I’m looking to collaborate on **Fintech Applications, E-commerce**
+- 👯 I’m looking to collaborate on **FinTech, E-commerce and HealthTech Solutions**
 
 - 🤝 I’m taking a course on **Frontend Development with ALX and Fullstack with Fullstack Open University - Helsinki**
+
+- 🤝 I'm a software engineer fellow at **Headstarter AI**
 
 - 💬 Ask me about **devloping software solutions**
 
