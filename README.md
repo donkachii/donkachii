@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donkachii&label=Profile%20views&color=0e75b6&style=flat" alt="donkachii" /> </p>
 
-<h1 align="center">Hi 👋, I'm Onyekachi Nwakaihe, welcome to my GitHub</h1>
+<h1 align="center">Hi 👋, I'm Onyekachi Nwakaihe</h1>
 <h3 align="left">About me:</h3>
 
 - 💻 I'm a **Full-stack Developer** with a bachelors degree in Computer Science
