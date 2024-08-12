@@ -9,7 +9,7 @@
 
 - 🤝 I’m taking a course on **Frontend Development with ALX and Fullstack with Fullstack Open University - Helsinki**
 
-- 🤝 I'm a software engineer fellow at **Headstarter AI**
+- 🏛️ I'm a software engineer fellow at **Headstarter AI**
 
 - 💬 Ask me about **devloping software solutions**
 
