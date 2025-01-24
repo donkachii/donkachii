@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Onyekachi Nwakaihe</h1>
 <h3 align="left">About me:</h3>
 
-- 💻 I'm a **Full-stack Developer** with a bachelors degree in Computer Science
+- 💻 I'm a **Sotware Engineer** with a bachelors degree in Computer Science
 
-- 🌱 I’m currently learning **Jest, Testing Libraries, AI and LLMs**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on **FinTech, E-commerce and HealthTech Solutions**
 
-- 🤝 I’m taking a course on **Frontend Development with ALX and Fullstack with Fullstack Open University - Helsinki**
+- 🤝 I’m taking a course with **Full stack Open University - Helsinki**
 
 - 🏛️ I'm a software engineer fellow at **Headstarter AI**
 
