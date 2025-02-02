@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **FinTech, E-commerce and HealthTech Solutions**
 
-- 🤝 I’m taking a course with **Full stack Open University - Helsinki**
+- 🤝 I’m taking a course in Full Stack development @ **Full stack Open University - Helsinki** and **IBM Full Stack Sofware Developer Course** @ Coursera
 
 - 🏛️ I'm a software engineer fellow at **Headstarter AI**
 
