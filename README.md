@@ -6,6 +6,8 @@ PRO TIPS:
 -->
 
 <!-- HERO -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=donkachii&label=Profile%20views&color=0e75b6&style=flat" alt="donkachii" /> </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-0A0?style=for-the-badge" alt="Open to Work">
 </p>
@@ -129,22 +131,11 @@ I’m open to collaborating on **HealthTech**, **FinTech**, and **E-commerce** p
 
 ---
 
-## 📊 GitHub Activity (Optional)
+## 📊 GitHub Activity
 <!-- You can use third-party widgets if you prefer. Keep it tasteful. -->
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=donkachii&hide_border=true" alt="Streak" />
 </p>
-
----
-
-<details>
-  <summary><b>Changelog</b> (why this README helps recruiters)</summary>
-
-- Clear positioning for **Frontend/Full-Stack** roles
-- Strong **HealthTech** narrative & local impact
-- Project table with **hire-signal stacks** and links
-- Evidence of **quality, testing, and delivery**
-- Concise contact and collaboration call-outs
-</details>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=donkachii&show_icons=true&locale=en&layout=compact" alt="donkachii" /></p>
 
 <!-- END -->
