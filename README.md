@@ -89,7 +89,7 @@ I build high-quality, user-centric software that solves real problems and meets 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | **Hope4PKD PI App** | Patient triage & appointment scheduling | Next.js, TS, Tailwind, Node, Postgres, Prisma | [Demo](https://www.hope4pkd.org) |
-| **GrowTeense** | Digital learning platform for Teenagers | Next.js, Postgres, Prisma, TS | [Repo](https://github.com/donkachii/grow-teens) · [Demo](https://grow-teens.vercel.app/) |
+| **GrowTeens** | Digital learning platform for Teenagers | Next.js, Postgres, Prisma, TS | [Repo](https://github.com/donkachii/grow-teens) · [Demo](https://grow-teens.vercel.app/) |
 
 ---
 
